@@ -6,6 +6,6 @@ groceries = {
   meat: ["chicken", "steak", "salmon"],
   grains: ["rice", "pasta"]
 }
-  groceries.get_the_keys
+  groceries.keys
 puts get_the_keys(groceries)
-
+end
